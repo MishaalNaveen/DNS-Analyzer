@@ -34,7 +34,7 @@ A Python-based DNS Analyzer with a simple Tkinter GUI — allows you to resolve 
 2. Install the required module (`dnspython`) if not already installed.
 3. Run the script:
    ```bash
-   python dns_analyzer_gui.py
+   python dns_analyzer.py
    ```
 4. Enter a domain, choose a record type, optionally enter an expected IP, and click **Run Analysis**.
 
