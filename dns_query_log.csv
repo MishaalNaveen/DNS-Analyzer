@@ -1,0 +1,4 @@
+Domain,Record Type,Response Time,Resolved IPs,Hops
+google.com,A,90.66 ms,172.217.19.14,9
+facebook.com,A,24.14 ms,57.144.148.1,10
+github.com,A,24.57 ms,20.207.73.82,24
